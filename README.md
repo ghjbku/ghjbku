@@ -12,6 +12,6 @@ alt="Profit every 10 minutes!"></a>
 <a href="https://invitation.codes/u/tBlR816sd" target="_blank">
  <img src="https://invitation.codes/api/widgets/badge/profile/tBlR816sd/color/invitation_codes_profile.svg?cta=offers" alt="https://invitation.codes/u/tBlR816sd"></a>
  
- <a target="_blank" href="https://xasic.io/ref/windsake"><img src="https://xasic.io/assets/banner/wb/banner_234_x_60.gif" alt="" width="125" height="125" border="0" /></a>
+ <a target="_blank" href="https://xasic.io/ref/windsake"><img src="https://xasic.io/assets/banner/wb/banner_234_x_60.gif" alt="" width="234" height="60" border="0" /></a>
 
 
