@@ -1,6 +1,6 @@
 <img
   align="center"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghjbku&show_icons=true"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghjbku&show_icons=true&layout=compact"
 />
 
 <a href="https://coin-farm.com/?en=windsake" target="_blank">
