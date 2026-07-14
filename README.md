@@ -1,7 +1,4 @@
-<img
-  align="center"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghjbku&show_icons=true&layout=compact"
-/>
+[![Windsake's GitHub stats](https://github-stats-extended.vercel.app/api?username=ghjbku)](https://github.com/stats-organization/github-stats-extended)
 
-[![](https://visitcount.itsvg.in/api?id=windsake&label=Profile%20Views&color=2&icon=0&pretty=true)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=ghjbku&color=yellow)
 
